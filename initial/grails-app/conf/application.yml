@@ -101,7 +101,7 @@ dataSource:
     jmxExport: true
     driverClassName: com.mysql.jdbc.Driver
     username: sa
-    password: testing
+    password: Password!
 
 environments:
     development:
